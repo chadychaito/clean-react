@@ -6,7 +6,6 @@
   "rules": {
     "@typescript-eslint/consistent-type-definitions": "off",
     "@typescript-eslint/strict-boolean-expressions": "off",
-    "space-before-function-paren": "off",
-    "@typescript-eslint/space-before-function-paren": ["error"]
+    "@typescript-eslint/space-before-function-paren": "off"
   }
 }
