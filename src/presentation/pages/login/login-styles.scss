@@ -58,19 +58,6 @@ body {
       text-transform: uppercase;
     }
 
-    .inputWrap {
-      display: flex;
-      align-items: center;
-      position: relative;
-      input {
-        flex-grow: 1;
-      }
-      .status {
-        position: absolute;
-        right: 8px;
-      }
-    }
-
     .link {
       text-align: center;
       color: $primary;
